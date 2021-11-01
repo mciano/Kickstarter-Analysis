@@ -17,7 +17,7 @@ The outcome based on goals can figure that more half of successful Goals for Pla
 ##
 ![](images/Outcomes_vs_Goals.png)
 ##
-Dataset could give us the overall amount that was gathered to each Category and Subcategory, it would be good if we could have a breakdown data by each line that composes the total Category and subcategory to have better raking of bakers amount.
+The dataset gives us the overall amount, but it would be good if we have the amount breakdown by bakers’ level.  With this visibility we could do a ranking of bakers amount to identify the main bakers by location. 
 ##
 It was possible to explore more Statistics tables to test mean, median, standard deviation, as well as upper and lower quartile. Pie chart was a good option to visualize the segments, other possible chart visualization was horizontal bar chart. 
 ##
